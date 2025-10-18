@@ -74,6 +74,3 @@ Setelah instalasi berhasil, Anda dapat login menggunakan kredensial default:
 | **Admin** | `admin` | `admin` | `home/admin.php` |
 | **Bendahara** | `bendahara` | `bendahara` | `home/bendahara.php` |
 
-## 📁 Susunan Project
-
-Struktur direktori utama proyek ini adalah sebagai berikut:
