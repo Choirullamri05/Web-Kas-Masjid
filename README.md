@@ -40,7 +40,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/choirullamri05/web-kas-masjid.git](https://github.com/choirullamri05/web-kas-masjid.git)
+    git clone https://github.com/choirullamri05/web-kas-masjid.git
     ```
 2.  **Pindahkan ke Web Server Directory:**
     Salin seluruh folder proyek ke direktori root web server Anda (misalnya `htdocs` untuk XAMPP, atau `www` untuk WAMPP). Ubah nama foldernya menjadi `kasmasjid` (atau nama lain yang Anda inginkan).
